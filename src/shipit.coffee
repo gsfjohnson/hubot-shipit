@@ -28,6 +28,8 @@ squirrels = [
   "https://i.imgur.com/mUuDkyK.jpg",
   "https://i.imgur.com/ERCNrhd.jpg",
   "https://i.imgur.com/nxMZSJi.png"
+  ,"https://i.imgur.com/Llnt0w8.jpg"
+  ,"https://i.imgur.com/bhgcEVa.jpg"
 ]
 
 module.exports = (robot) ->
